@@ -1,0 +1,49 @@
+[
+    {
+        "name_eng": "Brown Tang",
+        "name_th": "ปลาขี้ตังเบ็ดดำ",
+        "image_url": "https://cdn.shopify.com/s/files/1/0066/1284/4602/products/Scopas_Tang_1024x1024.jpg?v=1525659502",
+        "texture_urls": [
+            "https://github.com/AmAdevs/dae/blob/master/BrownTang.png?raw=true"
+        ],
+        "model_url": "https://github.com/AmAdevs/dae/blob/master/BrownTang.scn?raw=true"
+    },
+    {
+        "name_eng": "Powder Brown Tang",
+        "name_th": "ปลาขี้ตังเบ็ดน้ำตาล",
+        "image_url": "https://content1.amongthereef.com/images/items/fish/powder-brown-tang-acanthurus-japonicus-1.jpg",
+        "texture_urls": [
+            "https://github.com/AmAdevs/dae/blob/master/PowderBrownTang.png?raw=true"
+        ],
+        "model_url": "https://github.com/AmAdevs/dae/blob/master/PowderBrownTang.scn?raw=true"
+    },
+    {
+        "name_eng": "Sailfin Tang",
+        "name_th": "ปลาขี้ตังเบ็ดใบเรือ",
+        "image_url": "https://www.biolib.cz/IMG/GAL/166833.jpg",
+        "texture_urls": [
+            "https://github.com/AmAdevs/dae/blob/master/SailfinTang.png?raw=true"
+        ],
+        "model_url": "https://github.com/AmAdevs/dae/blob/master/SailfinTang.scn?raw=true"
+    },
+    {
+        "name_eng": "Yellow Tang",
+        "name_th": "ปลาขี้ตังเบ็ดเหลือง",
+        "image_url": "https://cdn.shopify.com/s/files/1/0060/0072/products/tang_Yellow_Tang_Haw.jpg?v=1426737544",
+        "texture_urls": [
+            "https://github.com/AmAdevs/dae/blob/master/YellowTank.png?raw=true"
+        ],
+        "model_url": "https://github.com/AmAdevs/dae/blob/master/YellowTank.scn?raw=true"
+    },
+    {
+        "name_eng": "Naso Tang",
+        "name_th": "ปลาขี้ตังเบ็ดหัวเรียบ",
+        "image_url": "https://cdn.shopify.com/s/files/1/1161/1898/products/25528920ec2a0d1f1f8624d3e6a6cc59_1024.jpg?v=1491186345",
+        "texture_urls": [
+            "https://github.com/AmAdevs/dae/blob/master/NasoTang.png?raw=true"
+        ],
+        "model_url": "https://github.com/AmAdevs/dae/blob/master/NasoTang.scn?raw=true"
+    }
+
+
+]
